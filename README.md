@@ -14,7 +14,7 @@ This project was built as part of my web development learning journey to practic
 
 ## 🔗 Live Preview
 
-*(Add your deployed link here once hosted — e.g. via GitHub Pages or Netlify)*
+**[View Live Site →](https://naitik595.github.io/Netflix-Landing-Page-Clone/)**
 
 ---
 
@@ -65,6 +65,7 @@ Netflix-Landing-Page-Clone/
 - Working with background images, overlays, and `z-index` layering
 - Writing media queries to adapt layouts across screen sizes
 - Adding subtle hover transitions for interactive elements
+- Controlling native browser video overlays (`controlsList`, `disablePictureInPicture`)
 
 ---
 
