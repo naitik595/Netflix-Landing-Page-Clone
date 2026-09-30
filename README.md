@@ -21,12 +21,7 @@ This project was built as part of my web development learning journey to practic
 ## 📸 Preview
 
 ### Desktop
-<details>
-<summary>Click to view full page</summary>
-
-![Desktop view](assets/screenshots/desktop.png)
-
-</details>
+![Desktop view](assets/screenshots/hero.png)
 
 ---
 
@@ -36,7 +31,7 @@ This project was built as part of my web development learning journey to practic
 - Hero section with background image overlay and call-to-action
 - Alternating content sections with image/video showcases
 - "Create profiles for kids" section
-- Interactive-style FAQ accordion layout
+- FAQ section layout with hover effect
 - Multi-column footer with grid layout, responsive down to 2 columns on smaller screens
 - Custom favicon
 
