@@ -160,11 +160,11 @@ nav button {
 
 .secImg video {
     position: absolute;
-    top: 50%;
+    top: 49.5%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 82%;
-    height: 66%;
+    width: 76%;
+    height: 43%;
     object-fit: cover;
     z-index: 5;
 }
