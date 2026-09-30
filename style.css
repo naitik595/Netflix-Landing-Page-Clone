@@ -164,7 +164,6 @@ nav button {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 76%;
-    height: 43%;
     object-fit: cover;
     z-index: 5;
 }
@@ -284,6 +283,13 @@ footer .questions {
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 25px;
+    }
+}
+
+@media (max-width: 420px) {
+    .third .secImg video {
+        top: 47%;
+        height: 48%;
     }
 }
 
