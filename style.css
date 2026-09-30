@@ -17,11 +17,12 @@ body {
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
     height: 70vh;
+    min-height: 600px;
     position: relative;
 }
 
 .main .box {
-    height: 70vh;
+    height: 100%;
     width: 100%;
     position: absolute;
     top: 0;

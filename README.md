@@ -20,7 +20,11 @@ This project was built as part of my web development learning journey to practic
 
 ## 📸 Preview
 
-*(Add a screenshot of your finished project here for quick visual reference)*
+### Desktop
+![Desktop view](assets/screenshots/desktop.png)
+
+### Mobile
+<img src="assets/screenshots/mobile.png" width="300" alt="Mobile view">
 
 ---
 
