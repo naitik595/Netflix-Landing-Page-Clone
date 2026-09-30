@@ -147,13 +147,25 @@ nav button {
     width: 555px;
     position: relative;
     z-index: 10;
+    -webkit-mask-image:
+        linear-gradient(to right, transparent 0%, black 4%, black 96%, transparent 100%),
+        linear-gradient(to bottom, transparent 0%, black 4%, black 90%, transparent 100%);
+    -webkit-mask-composite: source-in;
+    mask-image:
+        linear-gradient(to right, transparent 0%, black 4%, black 96%, transparent 100%),
+        linear-gradient(to bottom, transparent 0%, black 4%, black 90%, transparent 100%);
+    mask-composite: intersect;
 }
 
 .secImg video {
     position: absolute;
-    top: 51px;
-    right: 0;
-    width: 555px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 82%;
+    height: 66%;
+    object-fit: cover;
+    z-index: 5;
 }
 
 section.first>div {
@@ -222,10 +234,16 @@ footer .questions {
 
     .first {
         flex-wrap: wrap;
+        max-width: 90vw;
     }
 
     .secImg img {
-        width: 305px;
+        width: 100%;
+    }
+
+    .secImg {
+        width: 100%;
+        max-width: 400px;
     }
 
     .secImg video {
