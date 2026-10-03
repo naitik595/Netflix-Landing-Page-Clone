@@ -226,6 +226,12 @@ footer .questions {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     color: white;
 }
+.demo-disclaimer {
+    font-size: 11px;
+    color: #567581;
+    margin-top: 14px;
+    text-align: center;
+}
 
 @media screen and (max-width: 1300px) {
     nav {
