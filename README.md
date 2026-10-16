@@ -10,7 +10,7 @@ This project was built as part of my web development learning journey to practic
 
 > ⚠️ This is a personal learning project for educational purposes only. Not affiliated with or endorsed by Netflix.
 >
-> Note: This is a static UI-only demo built for front-end practice. The email signup CTA, Sign In button, language selector, and FAQ interactions are mock interface elements only; they are not connected to any backend, authentication flow, or data submission and do not collect or send user information.
+> Note: This is a static UI-only demo built for front-end practice. The email signup CTA is visibly marked as demo-only, its email control is read-only, and its button cannot submit a form. The Sign In button, language selector, and FAQ interactions are mock interface elements only; nothing requests, collects, stores, or transmits personal data, and no backend, analytics, tracking, or external form service is used.
 
 ---
 

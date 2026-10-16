@@ -23,12 +23,15 @@
         <div class="hero">
             <span>Enjoy big movies, hit series and more from ₹ 149.</span>
             <span>Join today. Cancel anytime.</span>
-            <span>Ready to watch? Enter your email to create or restart your membership.</span>
+            <span>Demo preview only — membership signup is not available on this page.</span>
             <div class="hero-buttons">
-                <input type="email" placeholder="Email Address">
-                <button class="btn btn-red">Get Started &gt;</button>
+                <div class="demo-email-control">
+                    <label for="demo-email">Demo-only email preview</label>
+                    <input id="demo-email" type="email" placeholder="Email Address" readonly aria-describedby="demo-disclaimer">
+                </div>
+                <button type="button" class="btn btn-red" aria-disabled="true">Get Started &gt;</button>
             </div>
-            <p class="demo-disclaimer">This is a UI demo only — no data is collected.</p>
+            <p id="demo-disclaimer" class="demo-disclaimer">This control is disabled for this UI demo. Do not enter personal information; nothing is collected, stored, or transmitted.</p>
         </div>
         <div class="separation"></div>
     </div>

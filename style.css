@@ -116,6 +116,18 @@ nav button {
     gap: 16px;
 }
 
+.demo-email-control {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+}
+
+.demo-email-control label {
+    color: #d7d7d7;
+    font-size: 11px;
+}
+
 .main input {
     padding: 7px 101px 13px 14px;
     color: white;
