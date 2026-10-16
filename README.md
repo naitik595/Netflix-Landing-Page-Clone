@@ -9,6 +9,8 @@ A responsive front-end clone of the Netflix landing page, built from scratch usi
 This project was built as part of my web development learning journey to practice real-world layout techniques: Flexbox, responsive design, media queries, and clean semantic structure.
 
 > ⚠️ This is a personal learning project for educational purposes only. Not affiliated with or endorsed by Netflix.
+>
+> Note: This is a static UI-only demo built for front-end practice. The email signup CTA, Sign In button, language selector, and FAQ interactions are mock interface elements only; they are not connected to any backend, authentication flow, or data submission and do not collect or send user information.
 
 ---
 
@@ -50,7 +52,12 @@ This project was built as part of my web development learning journey to practic
 ```
 Netflix-Landing-Page-Clone/
 ├── assets/
-│   └── images/
+│   ├── images/
+│   │   ├── bg.jpg
+│   │   └── logo.svg
+│   └── screenshots/
+│       └── hero.png
+├── README.md
 ├── favicon.ico
 ├── index.html
 └── style.css
