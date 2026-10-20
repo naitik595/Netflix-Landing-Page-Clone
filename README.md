@@ -14,12 +14,6 @@ This project was built as part of my web development learning journey to practic
 
 ---
 
-## 🔗 Live Preview
-
-**[View Live Site →](https://naitik595.github.io/Netflix-Landing-Page-Clone/)**
-
----
-
 ## 📸 Preview
 
 ### Desktop
