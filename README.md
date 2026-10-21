@@ -18,7 +18,7 @@ This project was built as part of my web development learning journey to practic
 
 ### Desktop
 
-![Desktop view](assets/screenshots/netflix.png)
+![Desktop view](assets/screenshots/hero.png)
 
 ---
 
