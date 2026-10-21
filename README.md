@@ -53,7 +53,6 @@ Netflix-Landing-Page-Clone/
 │   │   └── logo.svg
 │   └── screenshots/
 │       └── hero.png
-├── googleaeb6ba4aceb3487f.html
 ├── README.md
 ├── index.html
 └── style.css
